@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["dynamic-services30"],{"29bd":function(e,s,n){"use strict";n.r(s),n.d(s,"default",(function(){return r}));class r{async fetchUserInfo(){return{access_token:"",access_token_expires:"",refresh_token:"",userinfo:{email:"jdoe@acme.com",familyName:"",fullName:"",givenName:"",googleGroups:[],preferred_username:"jdoe",sub:"",userId:""}}}}}}]);
+//# sourceMappingURL=dynamic-services30.56ba074f.js.map

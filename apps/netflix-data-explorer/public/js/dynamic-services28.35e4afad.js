@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["dynamic-services28"],{"85e5":function(e,n,o){"use strict";async function s(){return Promise.resolve({access_token:"abcdef.ghijk.lmnop",userinfo:{email:"testuser@netflix.com",googleGroups:[]}})}o.r(n),o.d(n,"fetchUserInfo",(function(){return s}))}}]);
+//# sourceMappingURL=dynamic-services28.35e4afad.js.map

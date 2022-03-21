@@ -1,0 +1,1 @@
+{"version":3,"file":"alias.js","sourceRoot":"","sources":["../../../../../../../src/server/services/datastores/cassandra/lib/modules/query-builder/alias.ts"],"names":[],"mappings":";;;AAAA,MAAa,KAAK;IAChB,YAAqB,UAAkB,EAAW,KAAa;QAA1C,eAAU,GAAV,UAAU,CAAQ;QAAW,UAAK,GAAL,KAAK,CAAQ;IAAG,CAAC;CACpE;AAFD,sBAEC"}

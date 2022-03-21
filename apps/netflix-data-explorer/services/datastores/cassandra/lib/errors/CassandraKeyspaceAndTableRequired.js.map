@@ -1,0 +1,1 @@
+{"version":3,"file":"CassandraKeyspaceAndTableRequired.js","sourceRoot":"","sources":["../../../../../../src/server/services/datastores/cassandra/lib/errors/CassandraKeyspaceAndTableRequired.ts"],"names":[],"mappings":";;;;;;AAAA,qFAA6D;AAE7D,MAAa,iCAAkC,SAAQ,yBAAe;IACpE;QACE,KAAK,CACH,GAAG,EACH,qDAAqD,EACrD,qFAAqF,EACrF,4CAA4C,CAC7C,CAAC;IACJ,CAAC;CACF;AATD,8EASC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"CustomAccessControlProvider.js","sourceRoot":"","sources":["../../../../src/server/services/cluster-acls/providers/CustomAccessControlProvider.ts"],"names":[],"mappings":";;;;;AAAA,kGAA0E;AAG1E,MAAqB,2BAA4B,SAAQ,sCAA4B;IAC5E,uBAAuB,CAAC,QAAa;QAC1C,MAAM,IAAI,KAAK,CAAC,yBAAyB,CAAC,CAAC;IAC7C,CAAC;CACF;AAJD,8CAIC"}

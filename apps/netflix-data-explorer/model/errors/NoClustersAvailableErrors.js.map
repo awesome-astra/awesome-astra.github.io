@@ -1,0 +1,1 @@
+{"version":3,"file":"NoClustersAvailableErrors.js","sourceRoot":"","sources":["../../../src/server/model/errors/NoClustersAvailableErrors.ts"],"names":[],"mappings":";;;;;AAAA,qFAA6D;AAE7D,MAAqB,wBAAyB,SAAQ,yBAAe;IACnE,YAAY,aAAqB;QAC/B,KAAK,CACH,GAAG,EACH,uBAAuB,EACvB,uCAAuC,aAAa,EAAE,EACtD,8HAA8H,CAC/H,CAAC;IACJ,CAAC;CACF;AATD,2CASC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"FeatureDisabledError.js","sourceRoot":"","sources":["../../../src/server/model/errors/FeatureDisabledError.ts"],"names":[],"mappings":";;;;;AAAA,qFAA6D;AAE7D,MAAqB,oBAAqB,SAAQ,yBAAe;IAC/D,YAAY,OAAe;QACzB,KAAK,CACH,GAAG,EACH,kBAAkB,EAClB,QAAQ,OAAO,wBAAwB,EACvC,iLAAiL,CAClL,CAAC;IACJ,CAAC;CACF;AATD,uCASC"}

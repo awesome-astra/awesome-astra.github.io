@@ -1,0 +1,1 @@
+{"version":3,"file":"BaseDatastoreService.js","sourceRoot":"","sources":["../../../../src/server/services/datastores/base/BaseDatastoreService.ts"],"names":[],"mappings":";;AAGA,MAA8B,oBAAoB;IAEzC,uBAAuB,CAC5B,OAA2B;QAE3B,OAAO,CAAC,OAAO,CAAC,CAAC;IACnB,CAAC;CACF;AAPD,uCAOC"}

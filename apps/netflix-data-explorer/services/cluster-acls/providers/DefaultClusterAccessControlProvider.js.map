@@ -1,0 +1,1 @@
+{"version":3,"file":"DefaultClusterAccessControlProvider.js","sourceRoot":"","sources":["../../../../src/server/services/cluster-acls/providers/DefaultClusterAccessControlProvider.ts"],"names":[],"mappings":";;;;;AACA,kGAA0E;AAE1E,MAAqB,mCAAoC,SAAQ,sCAA4B;IACpF,KAAK,CAAC,uBAAuB,CAAC,QAAa;QAChD,OAAO,EAAE,CAAC;IACZ,CAAC;CACF;AAJD,sDAIC"}
